@@ -7,7 +7,7 @@ on the selection of these instances from a larger database. In particular, all p
 at least 21 years old of Pima Indian heritage 2
 
 ## Analysis
-**Tools used**: Jupyter notebook
+**Tool used**: Jupyter notebook
 
 ## Insights
 * The data was analysed from 336 patients, with a total insulin level of 52K.
