@@ -1,4 +1,5 @@
-# Dabetes Analysis
+# Diabetes Analysis
+
 ## About the Dataset
 The dataset was originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 The objective of the dataset was to diagnostically predict whether a patient has diabetes
