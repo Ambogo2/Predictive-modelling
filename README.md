@@ -5,10 +5,21 @@ This project was done during my internship at Meriskill and the objective was to
 
 ## About the Dataset
 The dataset was originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
-The objective of the dataset was to diagnostically predict whether a patient has diabetes
-based on certain diagnostic measurements included in the dataset. Several constraints were placed
-on the selection of these instances from a larger database. In particular, all patients here are females
-at least 21 years old of Pima Indian heritage 2
+In particular, all patients here are females at least 21 years old of Pima Indian heritage 2
+The dataset includes several features (independent variables).
+It has only one target variable (Outcome) indicating whether a patient has diabetes (1 for positive, 0 for negative).
+
+### Features 
+
+* Pregnancies: The number of pregnancies a patient has going through.
+* Glucose: Plasma glucose concentration( an indicator of blood sugar levels).
+* Blood Pressure: Diastolic blood pressure.
+* Skin Thickness: Skinfold thickness (related to body composition).
+* Insulin: 2-Hour serum insulin level.
+* BMI: A measure of body weight and height (indicating body fat).
+* Diabetes Pedigree Function: A measure of the diabetes heredity risk based on family history.
+* Age: The age of the patient in years.
+* Target Variable: Indicates whether the patient has diabetes (1 for positive, 0 for negative).
 
 ## Analysis
 **Tool used**: Jupyter notebook
