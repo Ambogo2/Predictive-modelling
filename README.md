@@ -1,7 +1,7 @@
 # Diabetes Analysis
 
 ## Project Overview
-This project was done during my internship at Meriskill and the objective was to to predict the likelihood of diabetes in patients based on various diagnostic measurements
+This project was done during my internship at [Meriskill](!https://www.meriskill.com/) and the objective was to to predict the likelihood of diabetes in patients based on various diagnostic measurements
 
 ## About the Dataset
 The dataset was originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
