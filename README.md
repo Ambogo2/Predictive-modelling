@@ -8,6 +8,7 @@ The dataset was originally from the National Institute of Diabetes and Digestive
 In particular, all patients here are females at least 21 years old of Pima Indian heritage 2
 The dataset includes several features (independent variables).
 It has only one target variable (Outcome) indicating whether a patient has diabetes (1 for positive, 0 for negative).
+The dataset consists of 768 rows and 9 columns
 
 ### Features 
 
@@ -25,11 +26,10 @@ It has only one target variable (Outcome) indicating whether a patient has diabe
 **Tool used**: Jupyter notebook
 
 ## Insights
-* The data was analysed from 336 patients, with a total insulin level of 52K.
-* The avwerage age of a patient is 32, BMI 32.30, and blood pressure 70.24.
+* The data was analysed from 768 patients, with a total insulin level of 52K.
+* The avwerage age of a patient is 32, the average BMI is 32.30, and the average blood pressure is 70.24.
 * The average skin thickness is at 28.66, and glucose levels at 122.
   
-The findings I uncovered offers actionable insights that can pave the way for better healthcare solutions.
-It's an excellent example of the impact data analysis can have in the healthcare sector
+
 
 
